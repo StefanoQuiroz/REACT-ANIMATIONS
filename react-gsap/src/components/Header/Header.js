@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import HamburguerMenu from '../HamburguerMenu/HamburguerMenu';
 import './Header.scss';
 
 const Header = () => {
@@ -18,6 +19,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
+            <HamburguerMenu/>
         </header>
     );
 }
