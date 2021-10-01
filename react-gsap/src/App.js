@@ -20,13 +20,13 @@ function App() {
                 <Route exact path={`/`}>
                   <Home/>
                 </Route>
-                <Route exact path={`/oportunidades`}>
+                <Route path={`/oportunidades`}>
                   <Oportunidades/>
                 </Route>
-                <Route exact path={`/soluciones`}>
+                <Route path={`/soluciones`}>
                   <Soluciones/>
                 </Route>
-                <Route exact path={`/contacto`}>
+                <Route path={`/contacto`}>
                   <Contacto/>
                 </Route>
               </Switch>
