@@ -1,0 +1,14 @@
+.container{
+    width: 1280px;
+    min-width: 1280px;
+    margin: 0 auto;
+    .wrapper{
+        padding: 0 48px;
+        h5{
+            margin-top: 260px;
+            font-size: 1.5rem;
+            font-weight: 600;
+            padding-right: 360px;
+        }
+    }
+}
