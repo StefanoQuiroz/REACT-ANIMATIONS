@@ -1,5 +1,4 @@
 import React from 'react';
-import './Soluciones.scss';
 
 const Soluciones = () => {
     return (
