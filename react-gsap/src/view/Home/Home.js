@@ -3,8 +3,12 @@ import './Home.scss';
 
 const Home = () => {
     return (
-        <div>
-            
+        <div className="container">
+            <div className="wrapper">
+                <h5>
+                    La <b>Empresa</b> , agencia global que trabaja en el avance de desarrollo de software, innovando y diseñando comunidades para los grandes desafíos.
+                </h5>
+            </div>            
         </div>
     );
 }

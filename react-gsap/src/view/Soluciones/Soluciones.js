@@ -3,9 +3,9 @@ import './Soluciones.scss';
 
 const Soluciones = () => {
     return (
-        <div>
-            
-        </div>
+        <p>
+            Soluciones que te ayudarán.    
+        </p>
     );
 }
 

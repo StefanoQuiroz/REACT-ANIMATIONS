@@ -3,9 +3,9 @@ import './Oportunidades.scss';
 
 const Oportunidades = () => {
     return (
-        <div>
-            
-        </div>
+        <p>
+          Descubre varias oportunidades de negocio.
+        </p>
     );
 }
 

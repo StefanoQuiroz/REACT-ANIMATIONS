@@ -3,9 +3,9 @@ import './Contacto.scss';
 
 const Contacto = () => {
     return (
-        <div>
-            
-        </div>
+        <p>
+            No dude en ponerse en contacto con nosotros.        
+        </p>
     );
 }
 
